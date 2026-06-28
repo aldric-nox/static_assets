@@ -1,1 +1,19 @@
 # static_assets
+
+### musictaste
+- [album_trailblazer.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/album_trailblazer.png)
+- [artist_pioneer.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/artist_pioneer.png)
+- [crowd_favorite.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/crowd_favorite.png)
+- [deep_cut.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/deep_cut.png)
+- [early_bird.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/early_bird.png)
+- [first_like.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/first_like.png)
+- [fortnight_force.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/fortnight_force.png)
+- [genre_nomad.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/genre_nomad.png)
+- [hat_trick.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/hat_trick.png)
+- [night_owl.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/night_owl.png)
+- [on_a_roll.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/on_a_roll.png)
+- [opening_act.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/opening_act.png)
+- [parental_advisory.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/parental_advisory.png)
+- [prompt_author.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/prompt_author.png)
+- [the_collab.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/the_collab.png)
+- [weekend_warrior.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/weekend_warrior.png)
