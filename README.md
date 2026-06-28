@@ -17,3 +17,8 @@
 - [prompt_author.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/prompt_author.png)
 - [the_collab.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/the_collab.png)
 - [weekend_warrior.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/weekend_warrior.png)
+- [across_the_ages.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/across_the_ages.png)
+- [genre_connoisseur.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/genre_connoisseur.png)
+- [iron_will.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/iron_will.png)
+- [time_capsule.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/time_capsule.png)
+- [vinly_digger.png](https://github.com/aldric-nox/static_assets/blob/main/musictaste/vinly_digger.png)
